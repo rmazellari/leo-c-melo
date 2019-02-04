@@ -1,0 +1,15 @@
+{
+  "name": "leo-c-melo",
+  "version": "1.0.0",
+  "description": "Website portfolio for art",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Antonis Mazellari",
+  "license": "ISC",
+  "homepage": "https://rmazellari.github.io/leo-c-melo",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
